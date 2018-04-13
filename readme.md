@@ -24,8 +24,9 @@ Weather data for London area was added, the data was collected from the [darksky
 #### Dataset
 
 There are two datasets that will be used for this assignment:
-1. Daily Weather data for the period November 2011 until April 2014.
-2. Energy Consumption data for an area for the period November 2011 until April 2014.
+
+1. [Daily Weather data for the period November 2011 until April 2014.](https://github.com/nick-singh/Time-Series-Analysis-Worksheet/blob/master/weather_daily_darksky.csv)
+2. [Energy Consumption data for an area for the period November 2011 until April 2014.](https://raw.githubusercontent.com/nick-singh/Time-Series-Analysis-Worksheet/master/energydata.csv)
 
 #### Tasks
 
@@ -73,7 +74,7 @@ or
 
 With the following subject format: *< StudentID > COMP6940 Assignment 5*
 
-#### Late Submissions:
+##### Late Submissions:
 A daily penalty for late submissions of 15% per day or partial day
 
 
